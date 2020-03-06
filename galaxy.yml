@@ -1,0 +1,14 @@
+namespace: community
+name: windows
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies: {}
+repository: git@github.com:coll-test/community.windows.git
+documentation: https://github.com/coll-test/community.windows/tree/master/docs
+homepage: https://github.com/coll-test/community.windows
+issues: https://github.com/coll-test/community.windows/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
